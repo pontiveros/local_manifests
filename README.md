@@ -18,7 +18,7 @@ sudo apt update && sudo apt install gcc-aarch64-linux-gnu libssl-dev bc python3-
 
 ## Clone local_manifests
  ```
-git clone https://github.com/mlorenzati/local_manifests .repo/local_manifests -b arpi-11
+git clone https://github.com/pontiveros/local_manifests.git .repo/local_manifests -b arpi-11
  ```
 
 ## Sync Repo
