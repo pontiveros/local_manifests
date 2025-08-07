@@ -84,6 +84,7 @@ Command (m for help): t
 Selected partition 1
 Hex code or alias (type L to list all): 0c
 Changed type of partition 'Linux' to 'W95 FAT32 (LBA)'.
+
 Command (m for help): n
 Partition type
    p   primary (1 primary, 0 extended, 3 free)
